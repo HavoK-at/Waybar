@@ -6,6 +6,7 @@
 #include <algorithm>
 #include <array>
 #include "ALabel.hpp"
+#include <spdlog/spdlog.h>
 
 namespace waybar::modules {
 
